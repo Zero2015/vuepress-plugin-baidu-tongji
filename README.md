@@ -5,15 +5,15 @@
 ## Install
 
 ```bash
-yarn add -D vuepress-plugin-baidu-tongji
-# OR npm install -D vuepress-plugin-baidu-tongji
+yarn add -D @zenghp2015/vuepress-plugin-baidu-tongji
+# OR npm install -D @zenghp2015/vuepress-plugin-baidu-tongji
 ```
 
 ## Usage
 
 ```js
 module.exports = {
-  plugins: ['vuepress-plugin-baidu-tongji', {
+  plugins: ['@zenghp2015/vuepress-plugin-baidu-tongji', {
     hm: 'xxx'
   }]
 }

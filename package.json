@@ -1,15 +1,12 @@
 {
   "name": "@zenghp2015/vuepress-plugin-baidu-tongji",
   "description": "baidu tongji plugin for vuepress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Zero2015 <zenghp2015@gmail.com>",
   "homepage": "https://github.com/Zero2015/vuepress-plugin-baidu-tongji",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zero2015/vuepress-plugin-baidu-tongji.git"
-  },
+  "repository": "git+https://github.com/Zero2015/vuepress-plugin-baidu-tongji.git",
   "keywords": [
     "vue",
     "vuepress"
