@@ -13,9 +13,10 @@ yarn add -D @zenghp2015/vuepress-plugin-baidu-tongji
 
 ```js
 module.exports = {
-  plugins: ['@zenghp2015/vuepress-plugin-baidu-tongji', {
-    hm: 'xxx'
-  }]
+  plugins: [
+    '@zenghp2015/vuepress-plugin-baidu-tongji', 
+    { hm: 'xxx'}
+  ]
 }
 ```
 
