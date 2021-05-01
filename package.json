@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-baidu-tongji",
+  "name": "@zenghp2015/vuepress-plugin-baidu-tongji",
   "description": "baidu tongji plugin for vuepress",
   "version": "1.0.0",
   "main": "index.js",
@@ -13,5 +13,8 @@
   "keywords": [
     "vue",
     "vuepress"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
